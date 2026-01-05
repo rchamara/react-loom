@@ -1,0 +1,9 @@
+{
+  "name": "react-loom",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react-loom-runtime": "^0.1.0"
+  }
+}
